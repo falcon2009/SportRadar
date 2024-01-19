@@ -43,3 +43,5 @@ The App folder keeps the interfaces, model, services that relates to app domain 
 The Test folder is supposed to keep the projects with tests as follows:<br/>
 -- SportRadar.App.Test.Unit - busineess services unit tests.<br/>
 -- SportRadar.Storage.Test.Unit - domain services unit tests.<br/>
+
+There are two version of models and services in SportRadar.Api and SportRadar.App which are kept in Model.V1 & Service.V1 and Model.V2 & Service.V2 folders respectively
