@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Core.Api\Core.Api.csproj" />
+    <ProjectReference Include="..\..\Core\Core.App\Core.App.csproj" />
+    <ProjectReference Include="..\SportRadar.Api\SportRadar.Api.csproj" />
+  </ItemGroup>
+
+</Project>
